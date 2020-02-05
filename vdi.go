@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"errors"
 	"fmt"
-	log "github.com/Sirupsen/logrus"
+	log "github.com/sirupsen/logrus"
 )
 
 type VDI XenAPIObject
